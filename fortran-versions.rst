@@ -3,9 +3,9 @@ Fortran version over the years
 
 #Versions       Version_number	          feature	          Releasedate
 ------------------------------------------------------------------------
-    # FORTRAN         66	           First standardization by ASA (now ANSI)....	1966-03-07
+# FORTRAN         66	           First standardization by ASA (now ANSI)....	1966-03-07
     
-    # FORTRAN         77	           Fixed Form, Historic	..... 1978-04-15
+# FORTRAN         77	           Fixed Form, Historic	..... 1978-04-15
     
     # Fortran         90	           Free Form, ISO Standard, Array operations ... use of IMPLICIT NONE etc ..	1991-06-15
     
