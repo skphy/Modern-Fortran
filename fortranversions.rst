@@ -1,6 +1,19 @@
-==============================
 Fortran version over the years
 ==============================
+
+Cheat Sheet
+===============
+
+.. _skumar_site: https://skphy.github.io/aug20/
+
+This sheet created by me for placing things at a single place. Also, this is the link to my home 
+page at git site skumar_site_.
+
+Sheet for Git and rst documentation
+-----------------------------------
+
+rst commands
+------------
 
 
 +-----------+----------------------+------------------------+--------------------+
