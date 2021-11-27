@@ -20,10 +20,10 @@ Fortran versions over the years
     # Fortran         2018             .. to add ...
 
 
-- refrences: 
+**refrences:** 
 
-# https://riptutorial.com/fortran
+    #. https://riptutorial.com/fortran
 
-# Fortran wiki; https://fortranwiki.org/fortran/show/HomePage
+    #. Fortran wiki; https://fortranwiki.org/fortran/show/HomePage
 
 **Fortran code examples: see the link https://fortranwiki.org/fortran/show/Code**
